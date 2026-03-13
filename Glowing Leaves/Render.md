@@ -6,11 +6,11 @@ Rendering settings
 
 Rendering engine: Cycles
 
-Sampling rate: 128
+Sampling: 128
 
-Denoising: None. 
+Denoising: None
 
-Please try rendering the video yourself!
+Feel free to render the animation yourself!
 
 
 ---日本語---
