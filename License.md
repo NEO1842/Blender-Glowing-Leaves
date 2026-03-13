@@ -2,7 +2,7 @@
 
 You are free to use, modify, and redistribute this project under the MIT License.
 
-If you redistribute this file or a modified version of it, please include a link to the original repository:
+If you redistribute this project or a modified version of it, please include a link to the original repository.
 
 Original Repository:
 https://github.com/NEO1842/Blender-Glowing-Leaves
