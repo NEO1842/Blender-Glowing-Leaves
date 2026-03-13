@@ -15,7 +15,7 @@ This project is based on a tutorial file, but the leaf models, particle setup, m
 
 このプロジェクトは MIT ライセンスに基づいて自由に使用、変更、再配布できます。
 
-このファイルまたはその改変版を再配布する場合は、元のリポジトリへのリンクを含めてください。
+このプロジェクトまたはその改変版を再配布する場合は、元のリポジトリへのリンクを含めてください。
 
 元のリポジトリ:
 https://github.com/NEO1842/Blender-Glowing-Leaves
