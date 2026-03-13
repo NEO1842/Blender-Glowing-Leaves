@@ -25,7 +25,9 @@ The leaf models, particle settings, materials, and visual adjustments were all c
 
 Rendering Engine: Cycles
 
-Sampling: 128 Denoicing: None
+Sampling: 128 
+
+Denoicing: None
 
 # Redistribution
 
