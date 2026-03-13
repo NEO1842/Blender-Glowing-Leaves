@@ -1,21 +1,21 @@
 ---English---
 
-This is a rendered image of an autumn leaves particle scene for Blender. 
+This is a rendered image of a glowing leaf particle scene for Blender. 
 
 Rendering settings
 
-Render engine: Cycles
+Rendering engine: Cycles
 
 Sampling rate: 128
 
-Denoising: None.
+Denoising: None. 
 
-Please try rendering a video! 
+Please try rendering the video yourself!
 
 
 ---日本語---
 
-これは、Blender 用の秋の葉のパーティクル シーンのレンダリング画像です。
+これは、Blender用の光る葉のパーティクル シーンのレンダリング画像です。
 
 レンダリング設定 
 
@@ -27,4 +27,4 @@ Please try rendering a video!
 
 ぜひ動画のレンダリングをお試しください！
 
-![Preview](Autumn%20Leaves%20Rain.png)
+![Preview](Glowing%20Leaves.png)
