@@ -31,7 +31,7 @@ Denoicing: None
 
 # Redistribution
 
-Redistribution Please refer to the LICENSE tab for redistribution conditions. 
+Please refer to the LICENSE tab for redistribution conditions. 
 
 # Disclaimer 
 
