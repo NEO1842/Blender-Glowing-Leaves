@@ -13,7 +13,7 @@ Rendering Engine: Cycles
 -How to Use- 
 1. Download and open Glowing Leaves.blend.
 
-2. Render the animation to see the movement of the falling glowing leaves.
+2. Try rendering the video!
 
 -Base File- 
 
@@ -57,7 +57,7 @@ Blenderバージョン: 3.4
 
 1. Glowing Leaves.blend をダウンロードして開きます。
 
-2. アニメーションをレンダリングして、落ちていく光る葉の動きを確認してください。
+2. 動画のレンダリングをお試しください！
 
 -ベースファイル-
 
