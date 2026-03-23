@@ -2,8 +2,6 @@
 <img src="Glowing Leaves/Glowing Leaves.png" width="600">
 </a>
 
-</div>
-
 Glowing Leaves (English)
 
 This is a Blender scene for scattering glowing leaf models using a particle system. 
@@ -17,9 +15,10 @@ Blender Version: 3.4
 Rendering Engine: Cycles 
 
 -How to Use- 
-1. Download and open Glowing Leaves.blend.
 
-2. Try rendering the video!
+ 1. Download and open Glowing Leaves.blend.
+
+　2. Try rendering the video!
 
 -Base File- 
 
@@ -51,8 +50,6 @@ Please comply with the laws and license conditions of your country.
 <img src="Glowing Leaves/Glowing Leaves.png" width="600">
 </a>
 
-</div>
-
 光る葉 (Japanese)
 
 これは、パーティクルシステムを使用して光る葉のモデルを散布するためのBlenderシーンです。
@@ -67,9 +64,9 @@ Blenderバージョン: 3.4
 
 -使用方法-
 
-1. Glowing Leaves.blend をダウンロードして開きます。
+　1. Glowing Leaves.blend をダウンロードして開きます。
 
-2. 動画のレンダリングをお試しください！
+　2. 動画のレンダリングをお試しください！
 
 -ベースファイル-
 
