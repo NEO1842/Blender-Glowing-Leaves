@@ -1,3 +1,11 @@
+<div align="center">
+
+<a href="https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive_link">
+<img src="Glowing Leaves/Glowing Leaves.png" width="600">
+</a>
+
+</div>
+
 Glowing Leaves (English)
 
 This is a Blender scene for scattering glowing leaf models using a particle system. 
@@ -40,6 +48,14 @@ The creators are not responsible for any problems arising from the use of materi
 Please comply with the laws and license conditions of your country.
 
 ---
+
+<div align="center">
+
+<a href="https://drive.google.com/file/d/10Eh8Txs37fhzA2SucoPBwlIG3wo0n-uJ/view?usp=drive_link">
+<img src="Glowing Leaves/Glowing Leaves.png" width="600">
+</a>
+
+</div>
 
 光る葉 (Japanese)
 
