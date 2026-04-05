@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Glowing Leaves/Glowing Leaves.png" width="600">
+<img src="Blender Glowing Leaves/Glowing Leaves.png" width="600">
 </a>
 
 Glowing Leaves (English)
@@ -16,7 +16,7 @@ Rendering Engine: Cycles
 
 -How to Use- 
 
- 1. Download and open Glowing Leaves.blend.
+  1. Download and open Glowing Leaves.blend.
 
 　2. Try rendering the video!
 
