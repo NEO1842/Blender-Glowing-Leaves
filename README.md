@@ -47,7 +47,7 @@ Please comply with the laws and license conditions of your country.
 ---
 
 <div align="center">
-<img src="Glowing Leaves/Glowing Leaves.png" width="600">
+<img src="Blender Glowing Leaves/Glowing Leaves.png" width="600">
 </a>
 
 光る葉 (Japanese)
