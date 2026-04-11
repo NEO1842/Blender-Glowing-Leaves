@@ -16,7 +16,7 @@ Rendering Engine: Cycles
 
 -How to Use- 
 
-  1. Download and open Glowing Leaves.blend.
+   1. Download and open Glowing Leaves.blend.
 
 　2. Try rendering the video!
 
